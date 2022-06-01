@@ -2,7 +2,7 @@
 <h3 align="center">A B.Tech. fresher at IIT Guwahati in CSE Dept.</h3>
 
 - 🔭 I’m currently exploring the **different domains like ML,CP,Open Source.**
-- I’m very really excited to learn and work in the field of open source **cuz we all know that team work always gets the job done. Really looking forward to collaborating with my friends and seniors and learning from them and sharing my knowledge too.**
+- I’m very really excited to learn and work in the field of open source **cuz we all know that team work always gets the job done. Really looking forward to collaborating with my friends and seniors and working with them on various areas like app dev and web dev. I am also excited to checkout the work of the best prgrammers of the world .**
 
 - 📫 How to reach me **keshavanand1717@gmail.com**
 
