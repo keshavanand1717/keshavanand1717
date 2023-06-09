@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on **Web Development. I have previously worked with various frameworks like Django and React.**
 - I take special interest in problem solving. I am currently learning Data Structures and Algorithms and doing Competitve Programming.
 
-- 📫 Feel free to get in touch with me for collaboration on any project or to discuss about anything **keshavanand1717@gmail.com**
+- 📫 Feel free to get in touch with me for collaboration on any project or to discuss about anything  **keshavanand1717@gmail.com**
+- I love to explore and learn new things. I may be surprisingly good at Table-Tennis too :).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
