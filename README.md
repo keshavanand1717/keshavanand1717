@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anand Keshav</h1>
-<h3 align="center">A B.Tech. fresher at IIT Guwahati in CSE Dept.</h3>
+<h3 align="center">A B.Tech. Junior at IIT Guwahati in CSE Dept.</h3>
 
-- 🔭 I’m currently exploring the **different domains like Web Development,CP,Open Source.**
-- I’m very really excited to learn and work in the field of open source **cuz we all know that team work always gets the job done. Really looking forward to collaborating with my friends and seniors and working with them on various areas like app dev and web dev. I am also excited to checkout the programs of the best prgrammers of the world. I hope I will enjoy this journey.**
+- 🔭 I’m currently working on **Web Development. I have previously worked with various frameworks like Django and React.**
+- I take special interest in problem solving. I am currently learning Data Structures and Algorithms and doing Competitve Programming.
 
-- 📫 How to reach me **keshavanand1717@gmail.com**
+- 📫 Feel free to get in touch with me for collaboration on any project or to discuss about anything **keshavanand1717@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
